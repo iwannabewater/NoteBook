@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/iwannabewater
       name: GitHub | NingHai
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/square-x-twitter
       link: https://twitter.com/_lilcat2alex
       name: Twitter | Winston
     - icon: fontawesome/brands/telegram
