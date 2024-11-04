@@ -83,3 +83,4 @@ nav:
       - LLM:
           - RAG vs Fine-tuning: ai/llm/rag_vs_finetune.md
           - MLLM Survey: ai/llm/MLLM_Survey.md
+          - ONNX Deployment: ai/cv/onnx_deployment.md
