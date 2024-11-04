@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: My blog
+site_url: https://iwannabewater.github.io/blog 
 
 # [UI]
 ## [top]
@@ -31,8 +32,8 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/iwannabewater/NoteBook # 右上角点击跳转的链接
-repo_name: NoteBook # 右上角的名字
+repo_url: https://github.com/iwannabewater/blog # 右上角点击跳转的链接
+repo_name: blog # 右上角的名字
 ## [bottom-left corner]
 copyright: NingHai CC-BY-4.0 # 左下角的版权声明
 
@@ -73,3 +74,11 @@ markdown_extensions:
   - meta # 支持Markdown文件上方自定义标题标签等
   - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
   - pymdownx.details # admonition需要
+
+# 目录导航
+nav:
+  - 首页: 
+      - index.md
+  - AI:
+      - LLM:
+          - RAG vs Fine-tuning: ai/llm/rag_vs_finetune.md
