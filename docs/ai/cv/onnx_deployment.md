@@ -4,13 +4,13 @@
 
 ## 1. 开发部署流程：
 
-![image-20231122203347898](./assets/images/2024/cv/onnx_deployment/1.png)
+![image-20231122203347898](../../../assets/images/2024/cv/onnx_deployment/1.png)
 
 ## 2. PyTorch模型部署通用流程：
 
-![image-20231122204204148](./assets/images/2024/cv/onnx_deployment/2.png)
+![image-20231122204204148](../../../assets/images/2024/cv/onnx_deployment/2.png)
 
-![image-20231122204330038](./assets/images/2024/cv/onnx_deployment/3.png)
+![image-20231122204330038](../../../assets/images/2024/cv/onnx_deployment/3.png)
 
 ## 3. 环境配置：
 
